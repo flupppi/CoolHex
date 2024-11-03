@@ -1,6 +1,6 @@
 {
     "name": "flupppi.CoolHex",
-    "references": ["flupppi.CoolHex.Runtime"],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
